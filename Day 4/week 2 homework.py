@@ -60,4 +60,6 @@
 #consonants = "bcdfghjklmnpqrstvwxyz"
 #for c in consonants:
     #print(c, data.lower().count(c))
+char = 0
 
+char.isalpha
