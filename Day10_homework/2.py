@@ -47,5 +47,6 @@ if __name__ == '__main__':
     lista_graczy.display_all()
 
     print('TOP 10 po sortowaniu')
-    lista_graczy.sort([:9])
+    lista_graczy.sort()
     lista_graczy.display_all()
+    top_10 = print(lista_graczy[0])
